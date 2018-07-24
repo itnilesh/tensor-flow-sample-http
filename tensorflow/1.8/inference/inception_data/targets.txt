@@ -1,0 +1,4 @@
+POST http://localhost:53547/api/v2/predict
+@inference_small_images_b64.json
+
+
